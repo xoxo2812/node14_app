@@ -1,0 +1,27 @@
+{
+  "name": "0821nd",
+  "version": "1.0.0",
+  "description": "노드공부",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xoxo2812/node14_app.git"
+  },
+  "keywords": [
+    "노드",
+    "리액트",
+    "SQL"
+  ],
+  "author": "채림",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.0",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.1",
+    "path": "^0.12.7"
+  }
+}
